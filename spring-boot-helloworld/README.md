@@ -116,6 +116,6 @@ Spring Boot 使用一个全局的配置文件 application.properties 或 applica
 在这里的配置：server.port表示程序的端口号，server.servlet.context-path表示程序路径的前缀
 4、运行
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019022518115286.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BhbjE5OTQ2Mg==,size_16,color_FFFFFF,t_70)
-在浏览器中输入http://localhost:8080/demo，运行
+在浏览器中输入http://localhost:8080/hello，运行
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190225184008683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BhbjE5OTQ2Mg==,size_16,color_FFFFFF,t_70)
 这样，一个简单的Springboot程序就完成了
